@@ -1,0 +1,23 @@
+* {
+    font-family: Arial;
+}
+# top {
+  display: inline;
+}
+.button {
+  float: right;
+  margin: 30px 20px 0 0;
+  position: relative;
+}
+h1 {
+  float: left;
+  padding-right: 200px;
+}
+#title {
+  clear: left;
+  margin: 0px 20px 0px 20px;
+  text-align: center;
+}
+p {
+  margin: 20px 20px 5px 20px;
+}

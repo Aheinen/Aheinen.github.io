@@ -8,7 +8,6 @@
 }
 h1 {
   float: left;
-  padding-right: 200px;
 }
 #title {
   clear: left;
@@ -17,7 +16,7 @@ h1 {
   font-weight: bold;
 }
 p {
-  margin: 10px 20px 5px 20px;
-  width: 70%;
-  padding-left: 100px;
+  margin: 20px 20px 5px 20px;
+  padding-left: 15%;
+  padding-right: 15%;
 }

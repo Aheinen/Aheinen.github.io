@@ -20,3 +20,18 @@ h1 {
   padding-left: 15%;
   padding-right: 15%;
 }
+img.frame {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.box {
+  width: 400px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}

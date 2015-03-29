@@ -42,8 +42,18 @@ img.box {
 }
 .ruby_code {
   margin: 20px 20px 5px 20px;
-  text-align: center;
+  text-align: left;
+  padding-left: 30%;
 }
 .ruby_code i {
-color: #F78181;
+  color: #F78181;
 }
+
+.second_line {
+  padding-left: 20px;
+}
+
+.third_line {
+  padding-left: 40px;
+}
+

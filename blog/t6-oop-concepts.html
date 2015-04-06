@@ -18,7 +18,7 @@
   <div id="title">Class/Module Face off</div>
   <section>
   <p class="par_text">
-      Classes in Ruby allow the user to create individual objects. This is done by instantiating the class, or creating objects that are instances of that class. Each instance of the same class then has access to specific instance methods which were defined in our class definition. This blog post will discuss the differences and similarities between classes and modules. If you need more background on classes in Ruby, you can check out THIS blog post.
+      Classes in Ruby allow the user to create individual objects. This is done by instantiating the class, or creating objects that are instances of that class. Each instance of the same class then has access to specific instance methods which were defined in our class definition. This blog post will discuss the differences and similarities between classes and modules. If you need more background on classes in Ruby, you can check out <a href="http://aheinen.github.io/blog/t5-ruby-classes.html">THIS</a> blog post.
   </p>
   <p class="par_text">
         In Ruby, each class can only be assigned one superclass. The subclass can borrow instance methods from its superclass, which is also known as inheritance. While each class can only have a single superclass, the initial subclass has access to the superclass of its superclass. The ladder effect continues until we reach BasicObject, which is the farthest you can go. What happens if we create a bunch of objects from multiple classes, but we need to carry over some of the same functionality? We could rewrite that code into each of our classes or we could create a new module.

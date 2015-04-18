@@ -1,0 +1,17 @@
+.col {
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+.topline {
+font-weight: bold;
+padding-left: 10%;
+width: 350px;
+}
+
+.bottomline {
+font-weight: italic;
+padding-left: 12%;
+width: 350px;
+}
+

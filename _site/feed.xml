@@ -6,9 +6,57 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Apr 2015 19:55:05 -0700</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2015 19:55:05 -0700</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2015 21:31:40 -0700</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2015 21:31:40 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Question Everything</title>
+        <description>&lt;p&gt;While there aren’t necessarily dumb questions, it’s generally a good idea to do your own research before asking a question. People are more likely to answer difficult questions that couldn’t be solved in a quick Google search. In a workplace environment where everyone is busy with their own issues, it is a good rule of thumb to spend a chunk of time trying to figure something out on your own before asking someone.&lt;/p&gt;
+
+&lt;p&gt;If you have spent some time wracking your brain about how to solve an issue and still can’t figure it out, there are a few things to keep in mind when you ask someone a question. These were written from the viewpoint of asking your co-workers in a workplace setting, but the same rules apply to asking questions online.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make sure you are asking the correct audiance. Don’t ask your HR representative why you can’t iterate through a string.&lt;/li&gt;
+  &lt;li&gt;Make sure the person you are asking isn’t slammed with other work. People are less likely to take the time to give you a good answer if they have too many things on their plate already.&lt;/li&gt;
+  &lt;li&gt;Be brief. I can’t stress this enough. People are busy. If it takes you five minutes to get to your point, they stopped listening four and half minutes ago. Summarize your question in a few key points to make sure they don’t lose interest.&lt;/li&gt;
+  &lt;li&gt;Plan it out. Don’t just say the first thing that pops into your head. Plan out your question so that it makes sense!&lt;/li&gt;
+  &lt;li&gt;Write it down. OK, so this doesn’t exactly pertain to asking the question, but make sure to take note of what the answer is. Don’t make the person have to repeat themselves if the question pops up again a few weeks later.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The morale of the story is that you should always put some thought into your question before just blurting it out. Think about who you should ask, think about how your question should be structured and most importantly, write down what the person says! No one likes to repeat themselves.&lt;/p&gt;
+
+&lt;p&gt;Now, any questions?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/26/c9-questions.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/26/c9-questions.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Bringing My Blog to the 21st Century</title>
+        <description>&lt;p&gt;Due to the decreased workload this week, I was able to finally bring my blog into the 21st century. The first implementation of my blog was hard coded in HTML &amp;amp; CSS. While this was a great learning experience, I wasn’t that interested in tweaking CSS all day until I had something that was absolutely perfect.&lt;/p&gt;
+
+&lt;p&gt;My new website utilizes Jekyll, which can be found &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;here&lt;/a&gt;. Jekyll is a framework that allows you to get a clean, good-looking site up and running quickly. I can now easily write blog posts in markdown and not have to worry about making sure my headers and footers are correctly pasted in each post. I’m hoping that the fact that it is very easy to get posts up and running now will keep me motivated to blog throughout the entirety of DBC. I was able to set up Jekyll and transfer over all my previous blog posts in just a matter of a couple of hours.&lt;/p&gt;
+
+&lt;p&gt;Overall I am fairly happy with the result, however I would like to look into implementing Bootstrap over the coming weeks.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/26/blogupdate.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/26/blogupdate.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Choo-Choo - WTF is Ruby on Rails</title>
@@ -367,68 +415,6 @@
         <pubDate>Sun, 29 Mar 2015 00:00:00 -0700</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/03/29/t5-ruby-classes.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/29/t5-ruby-classes.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Pairing is Caring - The Pair Apparent</title>
-        <description>&lt;p&gt;I’ll be the first to admit that I haven’t had much pairing experience prior to DBC. At my current job, I work directly with my boss, but have very little work interaction with anyone else. I typically work on everything on my own and then run it by him when I’m done. Pairing on challenges at DBC has been quite a change of pace and a breath of fresh air.&lt;/p&gt;
-
-&lt;p&gt;My first few pairing sessions were a bit of a struggle. I wasn’t communicating everything that was going on in my head, I was silent for spurts of time and overall I just found it awkward to work that way. The best part about it though? I totally got called out on it! My first two pairs pointed out that I would go quiet at times and they suggested I work on my communication skills. That was awesome. Had they not said anything, I never would have known I was doing anything wrong. I would have kept going silent in all my subsequent pairing sessions and everyone probably would have thought I was a weirdo. But, they said it and I took their advice and worked on it. I talk out absolutely everything I am doing when I am with a pair now. My pairing sessions are so much more organic and I feel that the work produced has been positively effected by this.&lt;/p&gt;
-
-&lt;p&gt;I have a tendency to want to be in control all the time. Boy was it a shocker for me when I navigated in my first pairing session… Nothing in life is more frustrating than knowing what needs to be done, but not being able to communicate effectively enough for your pair to put your ideas onto the screen. I had to fight the urge to just grab the keyboard and show them what I meant, but I knew that kind of defeated the purpose. So I took a deep breath and tried to communicate what I meant in a different way. It may take more time at first, but you start to pick up on what people understand and it makes it easier to explain the next time around.&lt;/p&gt;
-
-&lt;p&gt;When you come from a profession that isn’t content creation oriented, getting a full program to run effectively is such a great feeling. There it is on the screen, something you built with your hands that actually does something cool. That feeling is even better when you are in a pair. Its similar to video games. If you beat a game on your own, it’s cool and all but is there a better feeling than when you down a boss for the first time with your guild and everyone shouts over the voice com? That’s what it feels like to finish a challenge with a pair and I love it!&lt;/p&gt;
-
-&lt;p&gt;DBC tells us to give feedback that is actionable, specific and kind (A.S.K.). Kind? That’s easy, I’m from the midwest. We’re basically Canadian. Specific? Got that too, I work in equity research. Nobody listens to the vague guy. Actionable? OK, this is where it gets tricky. Everyone I am pairing with is on the same level or above me in terms of programming knowledge. It’s tough to figure out what you should tell them. Again, it’s just something I needed practice with. I started off by giving advice in terms of interacting with a pair or slowing down the tempo. I’ve since started focusing on what I can tell them in order to improve their actual coding process. While I still need some work at this, I’ve come a long way already.&lt;/p&gt;
-
-&lt;p&gt;So I guess what I am trying to say is that the system works! Each pairing session helps me become a better communicator and generally a better partner. I can’t wait to continue to improve these skills!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/03/28/c5-feedback.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/28/c5-feedback.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Is there an echo? - Is there an echo?</title>
-        <description>&lt;p&gt;The enumerable module is a special module in Ruby that is included in most collection objects. This particular module allows the user many different ways of iterating through a collection of data. By defining the instance method named each, the particular class gains access to numerous related behaviors. Each is a very common iterator in Ruby that will iterate (or step through) a specific data set one object at a time. Each takes a block of code as an argument and enacts that block on each object that it iterates over.&lt;/p&gt;
-
-&lt;p&gt;Below is a small example of how .each would work on a basic array. We call .each on my_array and tell Ruby to take each number in our array (we use the pipe brackets, to refer to each object in the set), multiply it by two and print it out to our screen. Therefore, we get 2468 printed out to our screen. Now be careful! The each method will always return the original array it was called on (That’s why we see »[1, 2, 3, 4] at the bottom of our example).&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 2468&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; returns [1, 2, 3, 4]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;OK. Now that you know a bit more about enumerators and the .each method in Ruby, lets dive into another enumerable method. Like each, the enumerable method cycle takes a block of code as an argument. Unlike each, cycle also takes an optional integer value as an argument.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;cycle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;block&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Cycle calls the given block on each object that we iterate over in the data set n times. If a value for n is not given, the iteration will go on forever. Let’s see what happens when we use the same block as we did with each, but lets pass cycle the integer value of 3.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cycle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 246824682468&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; returns nil&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;OK, so that wasn’t that shocking… We had the same thing printed to our screen as we did when we used each. The only difference is that the cycle method allowed us to iterate over my_array two extra times without having to make separate calls to do so. What is interesting though, is that nil was returned. Unlike each, nil will always be returned if a block is passed to cycle, but an Enumerator will be returned if no block is given.&lt;/p&gt;
-
-&lt;p&gt;To recap: The enumerable module allows classes to have many different ways of iterating through a collection of data. Each is one of the most common methods that executes a block of code on each object in a data set. Cycle works like each, but takes a second argument (an integer) that tells the method exactly how many times to iterate over the set. If no integer argument is given, cycle will run on forever!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 22 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/03/22/t4-enumerable-methods.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/22/t4-enumerable-methods.html</guid>
         
         
         <category>jekyll</category>

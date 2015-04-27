@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Apr 2015 19:25:13 -0700</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2015 19:25:13 -0700</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2015 19:55:05 -0700</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2015 19:55:05 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -128,6 +128,109 @@
         <pubDate>Sat, 11 Apr 2015 00:00:00 -0700</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/04/11/c7-values.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/11/c7-values.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Cheat Sheet!</title>
+        <description>&lt;p&gt;git init-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;initialize git repository
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git status-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  how tracked changes have changed
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git add “filename”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  adds xyz.txt  to git staging area
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git add -A.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  where dot stands for current dir. and everything after -A ensures every file name is deleted
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git reset “filename”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  remove a file or file from staging area
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git commit -m  -&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  commits/save staged changes where -m includes message
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git log-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  shows log of commitments
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git remote add “stream” “link”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  add remote repository where &quot;stream&quot; is remote name and &quot;link&quot; is url
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git push “stream” “branch”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  finalize committed changes by adding to online repo.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git pull “stream” “branch”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  Will automatically download and add modified repo &quot;stream&quot; to &quot;branch&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git diff HEAD-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; find differences from last commit
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git diff –staged-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; see staged changes
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git branch “new_branch_name”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   creates new branch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git checkout-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  find out which branch currently on
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git rm -r “target folder”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  recursively  removes all files and folder from dir
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git rm *“xyz”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  removes everything following &quot;*&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git clone “link”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  create clone where &quot;link&quot; is url
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;git merge “branch”-&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  pushes fetched changes onto specified &quot;branch&quot;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/09/cheatsheet.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/09/cheatsheet.html</guid>
         
         
         <category>jekyll</category>
@@ -326,28 +429,6 @@
         <pubDate>Sun, 22 Mar 2015 00:00:00 -0700</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/03/22/t4-enumerable-methods.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/22/t4-enumerable-methods.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Diversity in Tech Remains a Real Problem - Facing Hard Facts on Hard Topics</title>
-        <description>&lt;p&gt;As far as we’ve come in the battle for equal opportunity, it is hard to believe that there is still such a huge gap that needs to be closed. Of the major social media tech companies in the United States, not one has a workforce made up of more than 40% women. What’s even worse, there are only 3 female tech CEOs in the Fortune 500. But if you think it is bad now, the future could be even worse. Just 18% of computer science graduates in 2012 were female, that’s down from 37% in 1985. How will we make up the gap if the pool of potential female developers continues to shrink?&lt;/p&gt;
-
-&lt;p&gt;It isn’t just the employee level where women are underrepresented though, just 4% of senior venture capitalists and 19% of angel investors are women. So, the people who are calling the shots are even less diverse than the companies they are funding. It just seems like a downward spiral waiting to happen.&lt;/p&gt;
-
-&lt;p&gt;This isn’t just bad for women, this is bad for everyone. A less diverse work force means fewer points of view, fewer people to contest what end up being bad ideas and fewer chances to push the world forward with truly innovative ideas. You need people with different backgrounds and view points if you want to stay on the cutting edge.&lt;/p&gt;
-
-&lt;p&gt;So, what do we need to do to combat this? I wish I could tell you. One thing I can suggest is to keep talking about it. The lack of gender diversity is a real issue and it isn’t just going to go away on its own. We have to not only increase awareness, but motivate people to act. I certainly don’t know what the solution will be, but I definitely want to be part of the conversation. I am ready to engage.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 22 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/03/22/c4-tech-issues.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/22/c4-tech-issues.html</guid>
         
         
         <category>jekyll</category>

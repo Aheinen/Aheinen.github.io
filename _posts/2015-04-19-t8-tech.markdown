@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Choo-Choo - WTF is Ruby on Rails
+date:   2015-04-19
+categories: jekyll update
+---
+Ruby on Rails (or Rails for short) is an application for web developers written in the Ruby programming language that helps them assemble web applications through the use of a model-view-control (MVC). It typically leads to easier/faster development by making particular assumptions about specific things all developers need to get started. Rails is essentially a way to jumpstart the creation of a web application by eliminating unnecessary code writing that is typically required before beginning.
+
+Rails was created by David Heinemeier Hansson (or DHH) and was initially released in July 2004, though commit rights weren’t shared until February 2005. DHH got the idea for Rails while he was working on Basecamp, a project management tool.
+
+Rails is based on two major principles:
+
+The first principle is a computer programming adage, “Don’t Repeat Yourself” (DRY for short). DRY is pretty self explanatory, it means that you should avoid re-writing code whenever possible. The thought is that less repeated code leads to less chance for errors to occur and is in turn easier to maintain.
+
+The second principle is “Convention Over Configuration”. By providing specific conventions for each aspect of the application, developers don’t have to waste their time trying to configure everything to their liking. The developer then only has to alter the convention when he/she chooses to deviate from it. This requires less code writing for the developer.
+
+All in all, Ruby on Rails is a tool that makes web developers’ lives easier. Though we haven’t worked with it at DBC yet, I’m excited to get started on Rails soon!
+

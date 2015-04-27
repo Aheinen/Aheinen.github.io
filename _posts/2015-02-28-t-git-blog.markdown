@@ -1,0 +1,33 @@
+---
+layout: post
+title:  The Inaugural Post - Gittin' After It
+date:   2015-02-28
+categories: jekyll update
+---
+Ahh… The inaugural blog post.  The make or break moment when words finally start hitting the page and the writer realizes he is not nearly as witty or insightful as he thought he was. After the fifth failed joke and countless hours of self-critiquing torture, he begins to question himself: Give up (blogs are so 2004 anyway...) or trudge forward,  deflecting the blows from his own tasteless puns and incomplete logic. Fear not dear readers, for this writer will press onward. In this blog I will do my best to explain to you the concepts I have learned on my journey to become a software developer at Dev Bootcamp in San Francisco. We begin with basic version control, git and Github concepts, but bear with me for I am just a beginner in the world of software as well.
+
+Picture this, you are surprising your significant other by cooking up a pasta dish from scratch for them this evening. The noodles are boiling away, the Italian sausage is sizzling in the oven and the fresh tomato sauce is bubbling on the stovetop. Your significant other comes home to dimmed lights, fresh roses and a piping hot bowl of pasta. After you are done carefully explaining that the sauce is most definitely not "just Ragu", your significant other takes a bite. You stare, watching them eat, waiting for a response, dying in agony. They nod and say, "umm, real good…" as a crippling garlic stink nearly knocks you out. You take a bite and literally have to choke it down. Too much garlic!
+
+Ok. That analogy got away from me there for a second, but I do have a point. Wouldn't it be great if you could go back to the time before you added the garlic (today you learned, one clove != one head) and pick back up from there without having to start the meal all over again? That is what version control allows you to do. As you are writing or altering code, you save your changes into a commit. A commit is essentially a snapshot of your work that lets you keep track of the changes that you make. If things get messy later (or you add too much garlic) and your code somehow breaks, you can revert back to any of these commits and continue working as if those buggy changes were never introduced in the first place.
+
+Git is a powerful open-source tool to help manage version control for developers. Not only does it provide a way for developers to track their changes (with room to leave helpful comments), but it also allows multiple developers to work on a single project at once without having to worry about overwriting anyone else's changes.  This works by allowing each developer to operate on their own branch (basically a clone) of the base code. The developer can then make changes without anyone else seeing. When that person believes their code is flawless, git allows them to merge their newly added code into the base code.
+
+The collaboration aspect of git is expanded by websites like Github.com, as the base code for a project can be stored remotely on the internet, rather than in your own computer. This allows many more developers to have access to your project more easily. Each of these developers can then work on your code from their own branch and then submit their changes to you. If you deem the changes to be helpful, you can then merge them with your base code. Nothing like good ol' facilitation of collaboration!
+
+To make a long story short (...git to the TL;DR already), version control, git and Github are all tools that developers use to make it easier to collaborate on projects and keep track of all the changes that people make.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

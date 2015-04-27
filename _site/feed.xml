@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Heinen&#39;s Website</title>
+    <description>Join me on my journey toward becoming a web developer.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Apr 2015 19:25:13 -0700</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2015 19:25:13 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Choo-Choo - WTF is Ruby on Rails</title>
+        <description>&lt;p&gt;Ruby on Rails (or Rails for short) is an application for web developers written in the Ruby programming language that helps them assemble web applications through the use of a model-view-control (MVC). It typically leads to easier/faster development by making particular assumptions about specific things all developers need to get started. Rails is essentially a way to jumpstart the creation of a web application by eliminating unnecessary code writing that is typically required before beginning.&lt;/p&gt;
+
+&lt;p&gt;Rails was created by David Heinemeier Hansson (or DHH) and was initially released in July 2004, though commit rights weren’t shared until February 2005. DHH got the idea for Rails while he was working on Basecamp, a project management tool.&lt;/p&gt;
+
+&lt;p&gt;Rails is based on two major principles:&lt;/p&gt;
+
+&lt;p&gt;The first principle is a computer programming adage, “Don’t Repeat Yourself” (DRY for short). DRY is pretty self explanatory, it means that you should avoid re-writing code whenever possible. The thought is that less repeated code leads to less chance for errors to occur and is in turn easier to maintain.&lt;/p&gt;
+
+&lt;p&gt;The second principle is “Convention Over Configuration”. By providing specific conventions for each aspect of the application, developers don’t have to waste their time trying to configure everything to their liking. The developer then only has to alter the convention when he/she chooses to deviate from it. This requires less code writing for the developer.&lt;/p&gt;
+
+&lt;p&gt;All in all, Ruby on Rails is a tool that makes web developers’ lives easier. Though we haven’t worked with it at DBC yet, I’m excited to get started on Rails soon!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 19 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/19/t8-tech.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/19/t8-tech.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Conflict - Everyone Has &#39;That&#39; Roommate</title>
+        <description>&lt;p&gt;I am not a very confrontational person, in fact I would consider myself a person that avoids conflict at all costs. I tend to cater to the person creating the conflict in order to get it resolved more quickly. I know that this is probably not the most effective way of handling conflict and I really need to work on facing conflict head on.&lt;/p&gt;
+
+&lt;p&gt;A particular conflict that sticks out in my mind occurred back in my sophomore year of college. I had three roommates at the time, one of which grew more and more distant from the rest of us as the year went on. This particular roommate stopped going to class and started keeping very strange hours. He would sleep all day and stay up all night. Now, I’m not one to tell someone how to live their life, but he always seemed to make a significant amount of noise when I was trying to study late at night or get a good nights rest before a big test. My other roommates felt the same way, especially the one that had to share a wall with him.&lt;/p&gt;
+
+&lt;p&gt;After a few weeks of him disturbing everyone when they were looking for peace and quiet, we were all fed up. It made us angry that he expected us to keep quiet while he was still sleeping at 2pm, but wouldn’t grant us the same courtesy at midnight. We decided to confront him together. My roommates and I sat him down one day and told him that we were sick and tired of him playing the same damn song over and over when everyone else was trying to sleep. I normally would have tried to soften the blow so his feelings wouldn’t be hurt, but I had had enough of him feeling that his rest was more important than my own. He was defensive at first, as most people are when the are confronted by a group of people, but eventually accepted that he wasn’t being the best roommate. He agreed to not play his guitar so late anymore and we agreed that we would continue to be respectful of his odd sleeping hours.&lt;/p&gt;
+
+&lt;p&gt;If I could go back and do it all over again, I would have stopped myself from living with him in the first place. In all seriousness though, I think my roommates and I handled the situation well. We may have come after him a bit strong, but I think that was the only way he was going to understand that it was truly upsetting us. This situation taught me how other people deal with a particular conflict and helped me realize that it is OK to just be upfront with someone. If they are doing something that makes you feel disrespected, they may never realize it unless you tell them directly. As I said before, I am still admittedly bad at confrontation, but it is something that I am working on.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/19/c8-conflict.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/19/c8-conflict.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Battle Royale - Ruby vs. JavaScript</title>
+        <description>&lt;p&gt;The more you learn, the more you feel like you don’t know. After four straight weeks of Ruby, we journeyed into the belly of the beast that is JavaScript. The more rigid structure/syntax of JavaScript is definitely the first notable difference when you make the switch from Ruby. I’m not sure my semicolon button was prepared for the hammering it took this week. All I know is I want my clean looking Ruby programs back!&lt;/p&gt;
+
+&lt;p&gt;The next thing you notice is that JavaScript will let you run pretty much ANYTHING. Want to multiply “fish” times “hello”? Sure, that makes sense. You get NaN (not a number) in return, but it will run! JavaScript has no type error and let’s you pass as many arguments you want into any function, which can be very confusing for a beginner such as myself. It’s like JavaScript wants to be the “cool” high school parent that lets their kid and his friends drink in their basement on Saturday nights.&lt;/p&gt;
+
+&lt;p&gt;OK, so I’m being a little harsh. There is a lot of cool stuff about JavaScript; constructor functions (which help create instances of an object), the “this” keyword and explicit returns, just to name a few. Not only that, but JavaScript does share a lot of similarities with Ruby. Let’s take a minute to talk about the similarities and the differences between objects in JavaScript and hashes in Ruby.&lt;/p&gt;
+
+&lt;p&gt;Both JavaScript objects and Ruby hashes hold sets of key/value pairs. They work similar to an array, except instead of accessing each value with a specific index number, we access it with a key. The keys are similar between the two in that they can be strings (surrounded in “ “) or be a variable name with a colon at the end (called a symbol in Ruby). These keys can house any value type (boolean, integer, function, etc.) in either language.&lt;/p&gt;
+
+&lt;p&gt;Below we show how we would define a hash/object and populate it with key/value pairs, how we would add key/value pairs after the original hash/object has been created and how to print the values to the console.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; Ruby Hashes&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; Define a hash with some key/value pairs inside&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;my_hash&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;key one&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;key_two&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value two&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; Add a new key/value pair after a hash has been created&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;my_hash&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:new_key&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;new value&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; Print the value associated with each key to the console&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;my_hash&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;key_one&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;my_hash&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:key_two&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// JavaScript Objects&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Define an object with some key/value pairs inside&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;my_object&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;propertyOne&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;property two&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value two&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Add a new key/value pair after an object has been created&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;my_object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;newProperty&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;new value&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Print the value associated with each key to the console&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;propertyOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;property two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 11 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/11/t7-JavaScript.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/11/t7-JavaScript.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Affirmation and Stereotype Threat - What Values are Important to You?</title>
+        <description>&lt;p&gt;I typically find myself to be the happiest, proudest or most satisfied when I am accomplishing my goals. For that particular reason, I chose values that fall in line with that.&lt;/p&gt;
+
+&lt;p&gt;Values:
+  Accomplishment(5)
+  Creativity(3)
+  Growth(4)
+  Challenge(4)
+  Efficiency(5)&lt;/p&gt;
+
+&lt;p&gt;Efficiency is a very important value to me. When I tackle certain tasks, I always look for the most efficient route. I’m the type of person that has to min/max in every video game I play, sometimes I have to research for an hour or two before I begin allocating any stat points. Some people would probably call me a bit OCD, but I always strive to give myself the biggest advantage I can. Efficiency is also a reason that I was originally drawn to programming. A simple computer program can allow people to accomplish tasks in far less time, with far fewer resources than otherwise would have been required without the program. Even though we haven’t spoken much about efficiency in our programs yet, I find myself always questioning if my way of doing it was the most efficient.&lt;/p&gt;
+
+&lt;p&gt;Recently my friend got a job offer from a new firm, but wasn’t sure if he wanted to take it. He reached out to me for my input on the situation. I broke the situation down by trying to figure out exactly what he wanted out of his career. My answer to his question pretty much aligned with the values I listed above. I told him that I couldn’t tell him what he should do personally, but explained how I would look at the dilemma. I told him it sounded like a great opportunity for him to grow and develop his skills. The entire talk basically covered many of the values that I have listed above.&lt;/p&gt;
+
+&lt;p&gt;My values center around accomplishing a difficult task in a creative and efficient manner. I don’t think these would really help mediate any stereotype threat I was feeling though because they are mostly results driven. If I was feeling some sort of stereotype threat going into a big situation, I wouldn’t be able to rely on these values to help me feel better about the situation. That said, if I am ever feeling some sort of stereotype threat that makes me feel like I am not good enough to be in a particular situation, I can think back on all of the successes I have had in life and realize that I have earned everything that I had leading up to that point. I will make sure to try to focus on the positive and realize that I don’t need to focus on living up to any stereotypes.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/11/c7-values.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/11/c7-values.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Modeling Modules - Class/Module Face off</title>
+        <description>&lt;p&gt;Classes in Ruby allow the user to create individual objects. This is done by instantiating the class, or creating objects that are instances of that class. Each instance of the same class then has access to specific instance methods which were defined in our class definition. This blog post will discuss the differences and similarities between classes and modules.&lt;/p&gt;
+
+&lt;p&gt;In Ruby, each class can only be assigned one superclass. The subclass can borrow instance methods from its superclass, which is also known as inheritance. While each class can only have a single superclass, the initial subclass has access to the superclass of its superclass. The ladder effect continues until we reach BasicObject, which is the farthest you can go. What happens if we create a bunch of objects from multiple classes, but we need to carry over some of the same functionality? We could rewrite that code into each of our classes or we could create a new module.&lt;/p&gt;
+
+&lt;p&gt;A module allows us the ability to store code that can be used by multiple classes. While each class can only have a single superclass, there is no limitation to how many modules can be mixed in.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Something&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;A module definition begins with the keyword “module”, much like how we begin our class definitions with the word “class”. We can then define methods inside the module that may be used by any class that mixes the module in.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Something&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prepend&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Something&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;We can mix our module into any number of classes by calling “include” or “prepend”. Include signifies that each object of that class should search the designated module for a specific method after searching the base class, but before searching the superclass. By prepending a module, you tell each object to search the module for the functionality first, before we even attempt to search the base class.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;OurClass&lt;/span&gt;
+  &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Something&lt;/span&gt;
+  &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;SomethingElse&lt;/span&gt;
+  &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ThisOneFirst&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Mixing in modules works like a stack data structure in the sense that the last module mixed in will be the first module searched when an object is looking for a particular method. In the above example, ThisOneFirst will be the first module searched for functionality even though Something and SomethingElse were included in our class first.&lt;/p&gt;
+
+&lt;p&gt;Though modules help add tremendous flexibility to our programs, entities are generally best modeled in classes because modules don’t have instances. We should utilize modules to help model characteristics or properties of the entities. At the end of the day, modules are just a way of adding functionality to our classes, while making it such that we never have to repeat ourselves.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/04/t6-oop-concepts.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/04/t6-oop-concepts.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Real Talk 2 - Stereotyping Society</title>
+        <description>&lt;p&gt;In Claude M. Steele’s article written for the Atlantic Magazine in 1999, he defines stereotype threat as “The threat of being viewed through the lens of a negative stereotype, or the fear of doing something that would inadvertently confirm that stereotype.” The anxiety about being judged can cause students to perform more poorly on educational exams than they otherwise would have if it were not for the stereotype threat. In his research, he found that the mere wording a proctor gives before an exam can cause students to fall victim to this threat. This is crazy to think about. These stereotypes can build so subtly over time that we don’t even know we are nervous about inadvertently confirming them!&lt;/p&gt;
+
+&lt;p&gt;While not many negative stereotypes come with being a white male from a middle class family, I can say that I have felt the affect of stereotype threat a time or two. The memory that sticks out the most to me would be when I thought I wanted to go to law school and was preparing to take the LSAT my junior and senior year of college. I had high hopes of attending a top 13 law school and in order to do so, I needed to score well on the LSAT. I worked my butt off preparing for that test, but couldn’t help but think that I wasn’t doing enough. I mean, I was attending the University of Iowa, which isn’t exactly on the same level as Harvard, Stanford or Yale. I let myself believe that schools would judge me negatively as I was attending a ‘lesser’ university than other candidates. I was proud of the solid GPA I had garnered at Iowa, until I saw that it was no better than other students at far superior programs. How could I possibly compete with these other candidates?&lt;/p&gt;
+
+&lt;p&gt;When test day finally came, it went by in a blur. Needless to say, I panicked and let other people get inside my head. I was afraid of living up to what everyone expected I was, just a midwestern kid with no real wits. I scored far lower than I had in any of my recent practice exams. I was crushed when I received my score because I knew I could do better. But my story didn’t stop there, I wanted to take it again. I took some time off before hitting the books again and got a chance to recharge my batteries a bit. Once I restarted, I was scoring better on the practice tests than I ever had. I no longer cared about playing into the stereotype, I had already done that. What was the worst that could happen now? I was able to keep this attitude throughout my studying leading up to the exam and my score improved tremendously.&lt;/p&gt;
+
+&lt;p&gt;Stereotypes are a real detriment to society. As long as there are negative stereotypes that people are afraid of inadvertently confirming, there will be stereotype threat in our society. I wish there was an easier solution to be had, but there isn’t. We need to continue to actively campaign against the use of these stereotypes and be individually aware about how our actions reinforce stereotypes in ourselves and in others.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/04/stereotype-threat.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/04/stereotype-threat.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to My Inn! - Grab a Seat By the Fire, Class is in Session</title>
+        <description>&lt;p&gt;Over the past year I have grown obsessed with Blizzard Entertainment’s online collectible card game Hearthstone. In the game, two players enter an arena at a time, each armed with their own deck of 30 cards. Players trade turns playing minions and spells until one player’s life total falls to zero. OK, so that is a bit oversimplified. Just trust me on this, it’s an awesome game (and it’s “free-to-play” - yes, that is in quotes on purpose).&lt;/p&gt;
+
+&lt;p&gt;Anyway, we were given the task of explaining Ruby Classes this week and were told that it would be helpful if we modeled a real-world object as an example. Now, this is the part where you ask, “You were told to model a real-world object and you chose an online card game that has no physical properties at all?” Sure did, smart ass.&lt;/p&gt;
+
+&lt;p&gt;Classes in Ruby give you a way to easily create numerous objects that essentially behave the same way and share a similar batch of methods. You do this by instantiating the class, or creating objects that are instances of that class.  In our Hearthstone example, we will define a class called Deck, which we will instantiate with different decks (or arrays that are passed as the initial argument). We will then create individual methods in the class (or instance methods - because they are intended to be used by all instances of a class) to shuffle the deck, draw some cards, add some cards to our deck, show our hand and check how many cards are remaining in our deck. These are all things that need to occur in a game of Hearthstone (the analogy is looking pretty good now, huh?).&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Deck&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;card_deck&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@card_deck&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;card_deck&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@my_hand&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;We start by saying ‘class Deck’, which lets Ruby know that we are creating a new class named Deck.  We then create our first method, initialize, which takes an array of strings (cards) as an argument. This method is called initialize because it will automatically be run each time we create a new object of the Deck class We then declare and set our first two instance variables. The ‘@‘ sign in front of the variable name is a way for other Ruby developers to know you are talking about an instance variable. Instance variables are accessible in any method throughout a single instance (or one deck, in this case) of the class. We set our deck of cards equal to our input array and set our hand to an empty array.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;shuffle&lt;/span&gt;
+  &lt;span class=&quot;vi&quot;&gt;@card_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shuffle!&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Next up is another instance method, which we have named shuffle. Here we tell Ruby to take our instance variable (which of course is accessible in this method because it is an instance variable), shuffle it and return it.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;amount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;amount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;times&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@my_hand&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;vi&quot;&gt;@card_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pop&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Now that we have shuffled our deck, we define an instance method to draw some cards. We do that by passing in an integer as our argument, which will determine how many cards we draw. The argument is used to run a .times loop to push that specific amount of cards from our card deck and into our hand.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;card&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;vi&quot;&gt;@card_deck&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;card&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Added &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;card&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; to your deck!&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;display_hand&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;vi&quot;&gt;@my_hand&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Here are two more instance methods that will print a message to the screen. Our add method will add the card that you pass as an argument to our existing deck, be sure to not go above 30 cards though, that would be cheating!. The second method will display your hand by printing it to the screen as an array of strings.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;cards_remaining&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;You have &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@card_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; cards remaining.&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;In Hearthstone, each deck can only have 30 cards in it. When you run out of cards, you begin taking incremental damage for each non-card that you draw. So here we define a method that will print out how many cards you have remaining in your deck, this will help you avoid a nasty fatigue death.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;my_deck&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Execute&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Execute&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Shield&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Slam&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Shield&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Slam&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Whirlwind&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Fiery&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;War&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Axe&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Fiery&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;War&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Axe&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Armorsmith&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Armorsmith&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Cruel&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Taskmaster&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Cruel&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Taskmaster&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Shield&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Block&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Acolyte&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Pain&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Acolyte&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Pain&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Big&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Game&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Hunter&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Death&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;’&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Bite&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Death&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;’&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Bite&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Brawl&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Harrison&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Jones&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Sludge&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Blecher&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Sludge&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Belcher&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Shieldmaiden&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Shieldmaiden&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Sylvanas&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Windrunner&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Dr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Boom&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Grommash&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Hellscream&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Ragnaros&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Firelord&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Sneed&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;’&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Old&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Shredder&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Alexsrasza&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;”&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;warrior_deck&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;my_deck&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;warrior_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Loatheb&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; &amp;quot;Added Loatheb to your deck!&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;warrior_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shuffle&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;warrior_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;warrior_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display_hand&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; [&amp;quot;Big Game Hunter&amp;quot;, &amp;quot;Sneed&amp;#39;s Old Shredder&amp;quot;, &amp;quot;Alexstrasza&amp;quot;, &amp;quot;Shield Slam&amp;quot;]&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;warrior_deck&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cards_remaining&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; &amp;quot;You have 26 cards remaining.&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Now we have created our deck, which I have populated with 29 cards. We substantiate our class by setting warrior_deck equal to a new instance of our class (with Deck.new) and pass in the deck we want to use. Realizing we only had 29 cards in our deck, we add Loatheb, to fend off those pesky combo druids. We then shuffle our deck and draw four cards. Ooof, that is a slow start. Rack up another win for that face hunter opponent of yours…&lt;/p&gt;
+
+&lt;p&gt;As I said, this is a very basic implementation of a very complex game, but you should now get the gist of how powerful the Ruby class system really is. We could add more functionality to our class by adding methods to manage our mana progression, board state and card stats. Pretty soon we would be able to play a real game of Hearthstone. Take that Blizzard!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/29/t5-ruby-classes.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/29/t5-ruby-classes.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Pairing is Caring - The Pair Apparent</title>
+        <description>&lt;p&gt;I’ll be the first to admit that I haven’t had much pairing experience prior to DBC. At my current job, I work directly with my boss, but have very little work interaction with anyone else. I typically work on everything on my own and then run it by him when I’m done. Pairing on challenges at DBC has been quite a change of pace and a breath of fresh air.&lt;/p&gt;
+
+&lt;p&gt;My first few pairing sessions were a bit of a struggle. I wasn’t communicating everything that was going on in my head, I was silent for spurts of time and overall I just found it awkward to work that way. The best part about it though? I totally got called out on it! My first two pairs pointed out that I would go quiet at times and they suggested I work on my communication skills. That was awesome. Had they not said anything, I never would have known I was doing anything wrong. I would have kept going silent in all my subsequent pairing sessions and everyone probably would have thought I was a weirdo. But, they said it and I took their advice and worked on it. I talk out absolutely everything I am doing when I am with a pair now. My pairing sessions are so much more organic and I feel that the work produced has been positively effected by this.&lt;/p&gt;
+
+&lt;p&gt;I have a tendency to want to be in control all the time. Boy was it a shocker for me when I navigated in my first pairing session… Nothing in life is more frustrating than knowing what needs to be done, but not being able to communicate effectively enough for your pair to put your ideas onto the screen. I had to fight the urge to just grab the keyboard and show them what I meant, but I knew that kind of defeated the purpose. So I took a deep breath and tried to communicate what I meant in a different way. It may take more time at first, but you start to pick up on what people understand and it makes it easier to explain the next time around.&lt;/p&gt;
+
+&lt;p&gt;When you come from a profession that isn’t content creation oriented, getting a full program to run effectively is such a great feeling. There it is on the screen, something you built with your hands that actually does something cool. That feeling is even better when you are in a pair. Its similar to video games. If you beat a game on your own, it’s cool and all but is there a better feeling than when you down a boss for the first time with your guild and everyone shouts over the voice com? That’s what it feels like to finish a challenge with a pair and I love it!&lt;/p&gt;
+
+&lt;p&gt;DBC tells us to give feedback that is actionable, specific and kind (A.S.K.). Kind? That’s easy, I’m from the midwest. We’re basically Canadian. Specific? Got that too, I work in equity research. Nobody listens to the vague guy. Actionable? OK, this is where it gets tricky. Everyone I am pairing with is on the same level or above me in terms of programming knowledge. It’s tough to figure out what you should tell them. Again, it’s just something I needed practice with. I started off by giving advice in terms of interacting with a pair or slowing down the tempo. I’ve since started focusing on what I can tell them in order to improve their actual coding process. While I still need some work at this, I’ve come a long way already.&lt;/p&gt;
+
+&lt;p&gt;So I guess what I am trying to say is that the system works! Each pairing session helps me become a better communicator and generally a better partner. I can’t wait to continue to improve these skills!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/28/c5-feedback.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/28/c5-feedback.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Is there an echo? - Is there an echo?</title>
+        <description>&lt;p&gt;The enumerable module is a special module in Ruby that is included in most collection objects. This particular module allows the user many different ways of iterating through a collection of data. By defining the instance method named each, the particular class gains access to numerous related behaviors. Each is a very common iterator in Ruby that will iterate (or step through) a specific data set one object at a time. Each takes a block of code as an argument and enacts that block on each object that it iterates over.&lt;/p&gt;
+
+&lt;p&gt;Below is a small example of how .each would work on a basic array. We call .each on my_array and tell Ruby to take each number in our array (we use the pipe brackets, to refer to each object in the set), multiply it by two and print it out to our screen. Therefore, we get 2468 printed out to our screen. Now be careful! The each method will always return the original array it was called on (That’s why we see »[1, 2, 3, 4] at the bottom of our example).&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 2468&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; returns [1, 2, 3, 4]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;OK. Now that you know a bit more about enumerators and the .each method in Ruby, lets dive into another enumerable method. Like each, the enumerable method cycle takes a block of code as an argument. Unlike each, cycle also takes an optional integer value as an argument.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;cycle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;block&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Cycle calls the given block on each object that we iterate over in the data set n times. If a value for n is not given, the iteration will go on forever. Let’s see what happens when we use the same block as we did with each, but lets pass cycle the integer value of 3.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;my_array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cycle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 246824682468&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; returns nil&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;OK, so that wasn’t that shocking… We had the same thing printed to our screen as we did when we used each. The only difference is that the cycle method allowed us to iterate over my_array two extra times without having to make separate calls to do so. What is interesting though, is that nil was returned. Unlike each, nil will always be returned if a block is passed to cycle, but an Enumerator will be returned if no block is given.&lt;/p&gt;
+
+&lt;p&gt;To recap: The enumerable module allows classes to have many different ways of iterating through a collection of data. Each is one of the most common methods that executes a block of code on each object in a data set. Cycle works like each, but takes a second argument (an integer) that tells the method exactly how many times to iterate over the set. If no integer argument is given, cycle will run on forever!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/22/t4-enumerable-methods.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/22/t4-enumerable-methods.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Diversity in Tech Remains a Real Problem - Facing Hard Facts on Hard Topics</title>
+        <description>&lt;p&gt;As far as we’ve come in the battle for equal opportunity, it is hard to believe that there is still such a huge gap that needs to be closed. Of the major social media tech companies in the United States, not one has a workforce made up of more than 40% women. What’s even worse, there are only 3 female tech CEOs in the Fortune 500. But if you think it is bad now, the future could be even worse. Just 18% of computer science graduates in 2012 were female, that’s down from 37% in 1985. How will we make up the gap if the pool of potential female developers continues to shrink?&lt;/p&gt;
+
+&lt;p&gt;It isn’t just the employee level where women are underrepresented though, just 4% of senior venture capitalists and 19% of angel investors are women. So, the people who are calling the shots are even less diverse than the companies they are funding. It just seems like a downward spiral waiting to happen.&lt;/p&gt;
+
+&lt;p&gt;This isn’t just bad for women, this is bad for everyone. A less diverse work force means fewer points of view, fewer people to contest what end up being bad ideas and fewer chances to push the world forward with truly innovative ideas. You need people with different backgrounds and view points if you want to stay on the cutting edge.&lt;/p&gt;
+
+&lt;p&gt;So, what do we need to do to combat this? I wish I could tell you. One thing I can suggest is to keep talking about it. The lack of gender diversity is a real issue and it isn’t just going to go away on its own. We have to not only increase awareness, but motivate people to act. I certainly don’t know what the solution will be, but I definitely want to be part of the conversation. I am ready to engage.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 22 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/22/c4-tech-issues.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/22/c4-tech-issues.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

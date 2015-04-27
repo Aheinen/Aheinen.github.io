@@ -1,0 +1,13 @@
+# Site settings
+title: Alex Heinen's Website
+email: alexheinen99@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Join me on my journey toward becoming a web developer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Heinen_Alex
+github_username:  Aheinen
+facebook_username: Alex Heinen
+
+# Build settings
+markdown: kramdown
